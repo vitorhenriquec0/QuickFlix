@@ -34,10 +34,6 @@ A full-stack movie ticket booking application built with React and Node.js. User
 * User booking history
 * Admin dashboard for managing shows and bookings
 
-![Selecting seats and showtimes](image.png)
-
-![Dashboard](image-1.png)
-
 ## Getting Started
 
 ### Backend
@@ -76,8 +72,10 @@ VITE_TMDB_IMAGE_BASE_URL=
 
 ## Screenshots
 
-*Add screenshots or a demo GIF here.*
+![Home Page](homepage.png)
 
-## License
+![Selecting seats and showtimes](image.png)
 
-This project is for educational and portfolio purposes.
+![Dashboard](image-1.png)
+
+This project is for educational and portfolio purposes :)
