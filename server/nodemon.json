@@ -1,0 +1,4 @@
+{
+  "watch": ["server.js", "configs", "inngest", "models"],
+  "ignore": [".env", "package-lock.json", "node_modules"]
+}
