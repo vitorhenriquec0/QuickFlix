@@ -2,10 +2,6 @@
 
 A full-stack movie ticket booking application built with React and Node.js. Users can browse movies, choose showtimes, reserve seats, and complete payments through Stripe.
 
-
-![Home Page](homepage.png)
-
-
 ## Tech Stack
 
 **Frontend**
